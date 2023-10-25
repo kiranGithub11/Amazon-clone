@@ -1,5 +1,6 @@
 # Amazon-Website-Clone
-checkout -> 
+checkout -> https://kirangithub11.github.io/Amazon-clone/
+
 This Project is a basic HTML and CSS clone of the Amazon website. It is intended for educational purposes to help devolopers learn webdevolopment techniques.
 
 ## Technologies Used
